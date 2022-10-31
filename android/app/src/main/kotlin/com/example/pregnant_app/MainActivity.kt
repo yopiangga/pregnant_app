@@ -1,4 +1,4 @@
-package com.example.pregnant_app
+package com.pregnantapp.mobile
 
 import io.flutter.embedding.android.FlutterActivity
 

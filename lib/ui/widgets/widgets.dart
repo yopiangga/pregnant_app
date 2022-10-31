@@ -1,0 +1,36 @@
+import 'dart:io';
+
+import 'package:pregnant_app/methods/methods.dart';
+import 'package:pregnant_app/models/models.dart';
+import 'package:pregnant_app/providers/providers.dart';
+import 'package:pregnant_app/services/services.dart';
+import 'package:pregnant_app/shared/shared.dart';
+import 'package:pregnant_app/ui/pages/pages.dart';
+import 'package:another_flushbar/flushbar.dart';
+import 'package:dropdown_button2/dropdown_button2.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_markdown/flutter_markdown.dart';
+import 'package:flutter_spinkit/flutter_spinkit.dart';
+import 'package:provider/provider.dart';
+import 'package:simple_markdown_editor/simple_markdown_editor.dart';
+import 'package:youtube_player_iframe/youtube_player_iframe.dart';
+import 'package:timeago/timeago.dart' as timeago;
+
+part "app_bar_widget.dart";
+part 'button_widget.dart';
+part 'button_submit_widget.dart';
+part 'data_account_widget.dart';
+part "detail_video_widget.dart";
+part 'level_widget.dart';
+part "linier_text_field_widget.dart";
+part "list_video_widget.dart";
+part 'logout_account_widget.dart';
+part "normal_video_widget.dart";
+part 'photo_account_widget.dart';
+part "text_field_widget.dart";
+part "text_field_blank_widget.dart";
+part "text_field_hidden_widget.dart";
+part 'post_thread_widget.dart';
+part 'post_announcement_widget.dart';
+part 'dropdown_button_widget.dart';
+part 'flushbar_widget.dart';

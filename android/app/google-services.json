@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308235076361",
+    "project_id": "hackathon-pregnant-app",
+    "storage_bucket": "hackathon-pregnant-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308235076361:android:74124e52ba83868f6489d8",
+        "android_client_info": {
+          "package_name": "com.pregnantapp.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308235076361-p42voqfgiab4fcf45e77g7dtcvqmttpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLPHS3dlu47W60mABXnuiCrUFdWPWG5rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308235076361-p42voqfgiab4fcf45e77g7dtcvqmttpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
